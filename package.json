@@ -1,0 +1,21 @@
+{
+  "name": "mongodb-iot-reference-citibike-cron-jobs",
+  "version": "1.0.0",
+  "description": "This repository provides you with the reference implementations that have initially been presented during MongoDB.live on 9-10 June 2020. The [slides](https://www.slideshare.net/ChristianKurze01/mongodblive-2020-scalable-iot-projects-with-mongodb-gaining-value-from-iot-digital-twins) and a [recording](https://www.youtube.com/watch?v=8DmKum_Uhcg) are available.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckurze/mongodb-iot-reference.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckurze/mongodb-iot-reference/issues"
+  },
+  "homepage": "https://github.com/ckurze/mongodb-iot-reference#readme"
+}
