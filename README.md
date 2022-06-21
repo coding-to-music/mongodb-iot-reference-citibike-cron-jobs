@@ -1,5 +1,7 @@
 # mongodb-iot-reference-citibike-cron-jobs
 
+Cron jobs hourly and every 30 seconds to poll the CitiBike API. Reference implementations using MongoDB in IoT. should create all the necessary collections and views in MongoDB Atlas automatically
+
 # 🚀 Javascript full-stack 🚀
 
 https://github.com/coding-to-music/mongodb-iot-reference-citibike-cron-jobs
